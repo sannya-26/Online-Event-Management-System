@@ -6,4 +6,4 @@ Online Event Organizer and Ticket Booking System using Spring Boot, MySQL and Sp
 ![Home Page](home%20page.jpeg)
 ## Registration Page
 
-![Registration Page](registration-page.jpeg)
+![Registration Page](register page.png)
