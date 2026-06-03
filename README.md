@@ -10,9 +10,7 @@ Online Event Organizer and Ticket Booking System using Spring Boot, MySQL and Sp
 ## Login Page
 
 ![Login Page](login%20page.png)
-## Create Event Page
 
-![Create Event Page](create%20an%20event.png)
 ## Booking Ticket Page
 
 ![Booking Ticket](booking%20ticket.jpeg)
